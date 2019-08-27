@@ -1,0 +1,21 @@
+setting address akun = git config --global "user.name" = sesuai akun git
+                                            "user.email" = sesuai email akun
+
+
+
+dimulia .gitignore & Readme.md  //wajib dibuat pertama
+
+git init    //harus sudah berada di file yang dituju
+
+ls -a
+
+git add .    //  
+
+U   //update
+A   
+
+git commit -m "isikan nama"
+
+cari  cara Undo
+
+setelah git commit pertama ;untuk yg kedua dan selanjutnya lsg git add .
