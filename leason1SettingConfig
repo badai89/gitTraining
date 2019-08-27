@@ -18,4 +18,10 @@ git commit -m "isikan nama"
 
 cari  cara Undo
 
-setelah git commit pertama ;untuk yg kedua dan selanjutnya lsg git add .
+setelah git commit pertama ;untuk yg kedua dan selanjutnya lsg git add . dilanjut git commit -m
+
+
+untuk push atau ngepost data ke github:
+    1. git init
+    2. git add      // git add .
+    3. git commit   //git commit -m "nama pesan"
